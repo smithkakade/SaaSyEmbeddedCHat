@@ -1,6 +1,8 @@
 <html>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 <style type='text/css'>
+body {
+  background-image: url('img_girl.jpg');
+}
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
 		font-family: "Arial", sans-serif;
